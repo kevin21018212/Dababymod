@@ -1,0 +1,56 @@
+{
+  "letsgo": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "dababymod:letsgo"
+      }
+   
+    ]
+   
+  
+}
+,   "ha": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "dababymod:ha"
+      }
+   
+    ]
+   
+  
+}, "ipullup": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "dababymod:ipullup"
+      }
+   
+    ]
+   
+  
+},"nocap": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "dababymod:nocap"
+      }
+   
+    ]
+   
+  
+},"yeahyeah": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "dababymod:yeahyeah"
+      }
+   
+    ]
+   
+  
+}
+
+
+}

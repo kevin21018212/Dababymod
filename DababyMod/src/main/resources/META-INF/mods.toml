@@ -1,0 +1,49 @@
+
+modLoader="javafml" #mandatory
+
+loaderVersion="[39,)" #mandatory This is typically bumped every Minecraft version by Forge. See our download page for lists of versions.
+
+license="MIT"
+
+[[mods]] #mandatory
+
+modId="dababymod" #mandatory
+
+version="${file.jarVersion}" #mandatory
+
+displayName="Da Baby Mod" #mandatory
+
+logoFile="examplemod.png" #optional
+
+credits="Shout out to the us" #optional
+
+authors="Kev,Nick,Tristan,Will" #optional
+
+description='''
+
+We put dababy into minecraft what else do you want
+
+'''
+
+
+
+[[dependencies.dababymod]] #optional
+  
+    modId="forge" #mandatory
+
+    mandatory=true #mandatory
+    
+    versionRange="[39,)" #mandatory
+
+    ordering="NONE"
+
+    side="BOTH"
+    
+
+[[dependencies.dababymod]]
+    modId="minecraft"
+    mandatory=true
+
+    versionRange="[1.18.1,1.19)"
+    ordering="NONE"
+    side="BOTH"
